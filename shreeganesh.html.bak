@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+*
+{
+margin:0;
+}
+body
+{
+background-color:black;
+}
+.navbar
+{
+   list-style-type:none;
+}
+.navbar li a
+{
+  text-decoration:none;
+  background-color:red;
+  color:white;
+  display:block;
+  float:left;
+  padding:50px;
+}
+.navbar li a:hover
+{
+ background-color:green;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<h1 style="color:red;background-color:yellow;font-size=30px;"> shree ganesh super shoppe </h1>
+<br>
+<br>
+
+<ul class="navbar">
+<li><a href="shreeganesh.html">HOME</a></li>
+<li><a href="#">mobile regestration</a></li>
+<li><a href="address.html">address</a></li>
+<li><a href="googlemap.html">google map</a></li>
+<li><a href="offers.html">offers</a></li>
+
+
+<li><a href="contact number.html">contact number</a></li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

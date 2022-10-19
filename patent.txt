@@ -1,0 +1,13 @@
+agriculture yield growth and agroindustry products. 
+Data Mining
+Analyze the various related attributes like location, pH value from which alkalinity of the soil is determined. Along with it, percentage of nutrients like Nitrogen (N),
+ Phosphorous (P), and Potassium (K) 
+use of third-party applications like APIs for weather and temperature, type of soil, nutrient value of the soil in that region, amount of rainfall in the region, soil composition can be determined.
+ecommendations about required fertilizer ratio based on atmospheric and soil parameters of the land which enhance to increase the crop yield and increase farmer revenue.
+An ideal soil would be made up of 45% minerals (sand, clay, silt), 5 %
+organic (plant and animal) material, 25% air and 25% water. The mineral
+portion would be loam (20 – 30% clay, 30 – 50% silt and 30 – 50% sand).
+It would be crumbly, relatively dark in color, smell earthy and rich, team
+with microorganisms and earthworms, have plenty of nutrients and a pH
+between 6.5 and 7.5.\\
+https://agritech.tnau.ac.in/agriculture/agri_soil_soilratingchart.html   -soil contents
